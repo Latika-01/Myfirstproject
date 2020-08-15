@@ -41,7 +41,7 @@ and open the template in the editor.
 .banner-image{
     padding-bottom: 50px; margin-bottom: 20px; 
     text-align:center; color:#f8f8f8; 
-    background:url(images/intro-bg_1.jpg);
+    background-image:"intro-bg_1.jpg";
     background-size:cover;
 }
 .inner-banner-image{
